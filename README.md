@@ -101,8 +101,7 @@ var options = {
   "datePrefix": '__DATE:',
   "fieldValueDelete": "__DELETE",
   "fieldValueServerTimestamp" : "__SERVERTIMESTAMP",
-  "persist": true,
-  "config" : {}
+  "persist": true
 };
 
 if (cordova.platformId === "browser") {
